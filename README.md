@@ -39,7 +39,14 @@ Enter the follwing code to create a branch.
 git checkout -b YOUR-BRANCH-NAME
 ```
 Your branch name should be short and descriptive and also, the maintaner might have a convention for naming branches. Which is why, you must have gone through the `CONTRIBUTING.md` file at the beginning.
+# STEP 4 - MAKE YOUR CHANGES 
+1. Open the README.md file 
+2. Goto the Team section 
+3. **Add your name in the list** 
 
+After Successfully adding your details.
+Open up your terminal and add the following commands 
+# Team
 
 
 
