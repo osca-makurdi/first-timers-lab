@@ -6,4 +6,14 @@ Should be familiar with git or just a basic understanding else check here [Every
 - How to contribute to open source using a git workflow 
 - How to collaborate we teams 
 
+**_Without Further Ado, Let's get started_** 🚀
+# STEP 1 - FORK THIS REPOSITORY
+![fork](https://user-images.githubusercontent.com/37655600/152088898-f424b02b-646c-4155-8ce1-8916e05e914c.PNG)
+
+Fork this repository by clicking on the `fork` button at the top right corner of this page.
+
+Forking the repository, simply means copying the repository or project to your own github account.
+# STEP 2 - CLONE THE REPOSITORY 
+
+
 
