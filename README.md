@@ -8,14 +8,15 @@ Should be familiar with git or just a basic understanding else check here [Every
 
 **_Without Further Ado, Let's get started_** 🚀
 # STEP 1 - FORK THIS REPOSITORY
-![fork](https://user-images.githubusercontent.com/37655600/152120278-38b463f8-8b8e-420c-a3b1-a83cfa756aaa.PNG)
+![fork-1](https://user-images.githubusercontent.com/37655600/152127104-183c41b1-a8cb-46da-a165-c73629145d81.PNG)
 
-
-Fork this repository by clicking on the `fork` button at the top right corner of this page.
+Fork this repository by clicking on the `Fork` button at the top right corner of this page.
 
 Forking the repository, simply means copying the repository or project to your own github account.
 # STEP 2 - CLONE THE REPOSITORY 
 Cloning the repository means downloading the project from github to your local system, so you can make changes.
+![clone](https://user-images.githubusercontent.com/37655600/152126142-8e06fc3d-fc62-4bd2-8653-daf0f33a6ad1.PNG)
+
 
 - To do this, go into the **forked** repository on your personal Github account and click on the `Code` button 
 - Copy the **HTTP** link, SSH and Github CLI are also available options but we are using HTTP for this example
@@ -39,8 +40,12 @@ Enter the follwing code to create a branch.
 ```
 git checkout -b YOUR-BRANCH-NAME
 ```
-An Example is would be 
-`git checkout -b update_README`
+An Example is would be;
+
+```
+git checkout -b update_README
+```
+
 Your branch name should be short and descriptive and also, the maintaner might have a convention for naming branches. Which is why, you must have gone through the `CONTRIBUTING.md` file at the beginning.
 
 # STEP 4 - MAKE YOUR CHANGES 
@@ -55,7 +60,14 @@ git add README.md
 git commit -m 'adds my name and handle'
 git push origin YOUR-BRANCH-NAME
 ```
+- `git add` this command adds the file in which changes have been made to the staging area.
+- `git commit -m` saves the changes you have made locally with a message.
+- `git push origin` uploads the changes you have made to github.
+
+# STEP 5 - CREATE A PULL REQUEST
+
 # Team
+Add your name and handle here ✍
 
 
 
