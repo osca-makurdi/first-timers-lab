@@ -50,7 +50,7 @@ Your branch name should be short and descriptive and also, the maintaner might h
 
 # STEP 4 - MAKE YOUR CHANGES 
 1. Open the README.md file 
-2. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team-) section 
+2. Goto the Team section
 3. **Add your Fullname and twitter handle to the list** 
 
 After Successfully adding and saving your details.
