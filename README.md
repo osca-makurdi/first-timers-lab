@@ -4,7 +4,7 @@ The `first-timers-lab` repository is created to serve as starting point for newb
 Should be familiar with git or just a basic understanding else check here [Everyday Git](https://git-scm.com/docs/giteveryday)
 ## What you will learn.
 - How to contribute to open source using a git workflow 
-- How to collaborate we teams 
+- How to collaborate with teams 
 
 **_Without Further Ado, Let's get started_** 🚀
 # STEP 1 - FORK THIS REPOSITORY
@@ -24,47 +24,59 @@ Cloning the repository means downloading the project from github to your local s
 
 ```
 git clone THE-LINK-YOU-JUST-COPIED
+```
+```
 cd FORKED-REPO-NAME
 ```
 Replace all text in upper case with your details.
 In my case, it would be 
+
 ```
 git clone https://github.com/logiquebox/first-timers-lab.git
+```
+```
 cd first-timers-lab
 ```
 Substitute **logiquebox** with your github username
 # STEP 3 - CREATE A BRANCH 
-Create a branch and make your changes to that branch, this makes it so that each contributor works on a separate branch and only commit to master when their code has been reviewed. 
+Create a branch and make your changes to that branch, this makes it so that each contributor works on a separate branch and only commit to master when their code has been approved. 
 
 Enter the follwing code to create a branch.
 ```
 git checkout -b YOUR-BRANCH-NAME
 ```
-An Example is would be;
+An Example of this would be;
 
 ```
 git checkout -b update_README
 ```
 
-Your branch name should be short and descriptive and also, the maintaner might have a convention for naming branches. Which is why, you must have gone through the `CONTRIBUTING.md` file at the beginning.
+Your branch name should be short and descriptive and also, the maintaner might have a convention for naming branches. Which is why, it is important that you go through the `CONTRIBUTING.md` file at the beginning.
 
 # STEP 4 - MAKE YOUR CHANGES 
-1. Open the README.md file 
-2. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team) section
-3. **Add your Fullname and twitter handle to the list** 
+1. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team) section of the README.md file 
+2. **Add your Fullname and twitter handle to the list** 
 
 After Successfully adding and saving your details.
-Open up your **terminal** and add the following commands 
+Open up your **terminal** and enter the following commands line by line. 
 ```
 git add README.md 
-git commit -m 'adds my name and handle'
+git commit -m 'added my name and handle'
 git push origin YOUR-BRANCH-NAME
 ```
 - `git add` this command adds the file in which changes have been made to the staging area.
-- `git commit -m` saves the changes you have made locally with a message.
-- `git push origin` uploads the changes you have made to github.
+- `git commit -m` saves the changes you have made to repo locally with a message.
+- `git push origin` uploads the changes you have made to the remote repository (github).
 
 # STEP 5 - CREATE A PULL REQUEST
+Now, immediately after you push your changes to remote, github will prompt you to make a pull request. 
+
+- And you make a pull request by clicking on the `Compare & Pull Request` button 
+- Then enter a title and description, and again your title should be descriptive. 
+- Finally, click on `Create Pull Request`
+
+And, Yay!👏 You have just made your first contribution!!!
+Just wait for you pull request to be merged.
 
 
 # Team
