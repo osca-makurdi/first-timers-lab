@@ -18,26 +18,22 @@ Cloning the repository means downloading the project from github to your local s
 ![clone](https://user-images.githubusercontent.com/37655600/152126142-8e06fc3d-fc62-4bd2-8653-daf0f33a6ad1.PNG)
 
 
-- To do this, go into the **forked** repository on your personal Github account and click on the `Code` button 
-- Copy the **HTTP** link, SSH and Github CLI are also available options but we are using HTTP for this example
+- To do this, go into the **forked** copy of the repository on your personal Github account and click on the `Code` button 
+- Copy the **HTTPS** link, SSH and Github CLI are also available options but we are using HTTP for this example
 - Then open your **terminal** and enter the following code 
 
 ```
-git clone THE-LINK-YOU-JUST-COPIED
+git clone PASTE-COPIED-LINK
 ```
-```
-cd FORKED-REPO-NAME
-```
-Replace all text in upper case with your details.
+Replace all **uppercase** text with your details.
+
 In my case, it would be 
 
 ```
 git clone https://github.com/logiquebox/first-timers-lab.git
 ```
-```
-cd first-timers-lab
-```
 Substitute **logiquebox** with your github username
+
 # STEP 3 - CREATE A BRANCH 
 Create a branch and make your changes to that branch, this makes it so that each contributor works on a separate branch and only commit to master when their code has been approved. 
 
@@ -48,10 +44,10 @@ git checkout -b YOUR-BRANCH-NAME
 An Example of this would be;
 
 ```
-git checkout -b update_README
+git checkout -b my-contribution
 ```
 
-Your branch name should be short and descriptive and also, the maintaner might have a convention for naming branches. Which is why, it is important that you go through the `CONTRIBUTING.md` file at the beginning.
+Your branch name should be short and descriptive so be creative and also, the maintainer might have a convention for naming branches. Which is why, it is important that you go through the `CONTRIBUTING.md` file at the beginning.
 
 # STEP 4 - MAKE YOUR CHANGES 
 1. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team) section of the README.md file 
