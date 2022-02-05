@@ -22,30 +22,26 @@ Cloning the repository means downloading the project from github to your local s
 - Copy the **HTTPS** link, SSH and Github CLI are also available options but we are using HTTP for this example
 - Then open your **terminal** and enter the following code 
 
-```
-git clone PASTE-COPIED-LINK
-```
+`git clone PASTE-COPIED-LINK`
+
 Replace all **uppercase** text with your details.
 
 In my case, it would be 
 
-```
-git clone https://github.com/logiquebox/first-timers-lab.git
-```
+`git clone https://github.com/logiquebox/first-timers-lab.git`
+
 Substitute **logiquebox** with your github username
 
 # STEP 3 - CREATE A BRANCH 
 Create a branch and make your changes to that branch, this makes it so that each contributor works on a separate branch and only commit to master when their code has been approved. 
 
 Enter the follwing code to create a branch.
-```
-git checkout -b YOUR-BRANCH-NAME
-```
+
+`git checkout -b YOUR-BRANCH-NAME`
+
 An Example of this would be;
 
-```
-git checkout -b my-contribution
-```
+`git checkout -b my-contribution`
 
 Your branch name should be short and descriptive so be creative and also, the maintainer might have a convention for naming branches. Which is why, it is important that you go through the `CONTRIBUTING.md` file at the beginning.
 
