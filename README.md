@@ -66,8 +66,12 @@ git push origin YOUR-BRANCH-NAME
 
 # STEP 5 - CREATE A PULL REQUEST
 Now, immediately after you push your changes to remote, github will prompt you to make a pull request. 
+![compare](https://user-images.githubusercontent.com/37655600/152628396-59f4a8d5-4e09-4720-8e94-93025e5b6108.PNG)
 
 - And you make a pull request by clicking on the `Compare & Pull Request` button 
+
+![create PR](https://user-images.githubusercontent.com/37655600/152628440-4e5fffb9-00a0-45a7-b9fc-1af9aefaf314.PNG)
+
 - Then enter a title and description, and again your title should be descriptive. 
 - Finally, click on `Create Pull Request`
 
