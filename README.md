@@ -61,7 +61,7 @@ Your branch name should be short and descriptive so be creative and also, the ma
 ---
 # STEP 4 - MAKE YOUR CHANGES 
 ---
-1. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team) section of the README.md file 
+1. Goto the `Contributors.md` file and make your changes
 2. **Add your Fullname and twitter handle to the list** 
 
 After Successfully adding and saving your details.
@@ -97,13 +97,6 @@ Now, immediately after you push your changes to remote, github will prompt you t
 
 And, Yay!👏 You have just made your first contribution!!! :tada: 
 Just wait for you pull request to be merged.
-
-
-# Team
----
-Add your name and handle here ✍
-
-🟢Ujah Emmanuel [@codeboss_](https://twitter.com/codeboss_)
 
 
 
