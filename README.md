@@ -13,7 +13,8 @@ Should be familiar with git or just a basic understanding else check here [Every
 
 **_Without Further Ado, Let's get started_** 🚀
 
----
+
+
 # STEP 1 - :fork_and_knife: FORK THIS REPOSITORY 
 ---
 ![fork-1](https://user-images.githubusercontent.com/37655600/152127104-183c41b1-a8cb-46da-a165-c73629145d81.PNG)
@@ -22,7 +23,8 @@ Fork this repository by clicking on the `Fork` button at the top right corner of
 
 Forking the repository, simply means copying the repository or project to your own github account.
 
----
+
+
 # STEP 2 - CLONE THE REPOSITORY 
 ---
 Cloning the repository means downloading the project from github to your local system, so you can make changes.
@@ -43,7 +45,8 @@ In my case, it would be
 
 replace **logiquebox** with your github username
 
----
+
+
 # STEP 3 - CREATE A BRANCH 
 ---
 Create a branch and make your changes to that branch, this makes it so that each contributor works on a separate branch and only commit to master when their code has been approved. 
@@ -58,10 +61,11 @@ An Example of this would be;
 
 Your branch name should be short and descriptive so be creative and also, the maintainer might have a convention for naming branches. Which is why, it is important that you go through the `CONTRIBUTING.md` file at the beginning.
 
----
+
+
 # STEP 4 - MAKE YOUR CHANGES 
 ---
-1. Goto the `Contributors.md` file and make your changes
+1. Goto the [Team](https://github.com/logiquebox/first-timers-lab#team) section of the README.md file 
 2. **Add your Fullname and twitter handle to the list** 
 
 After Successfully adding and saving your details.
@@ -75,7 +79,8 @@ git push origin YOUR-BRANCH-NAME
 - `git commit -m` saves the changes you have made to repo locally with a message.
 - `git push origin` uploads the changes you have made to the remote repository (github).
 
----
+
+
 # STEP 5 - CREATE A PULL REQUEST
 ---
 Now, immediately after you push your changes to remote, github will prompt you to make a pull request. 
@@ -97,6 +102,17 @@ Now, immediately after you push your changes to remote, github will prompt you t
 
 And, Yay!👏 You have just made your first contribution!!! :tada: 
 Just wait for you pull request to be merged.
+
+
+# Team
+---
+Add your name and handle here ✍
+
+🟢Ujah Emmanuel [@codeboss_](https://twitter.com/codeboss_)
+
+
+
+
 
 
 
